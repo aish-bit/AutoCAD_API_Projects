@@ -1,0 +1,7 @@
+AcCoreMgd.dll. Use when working within the editor, publishing and plotting, and defining commands and functions that can be called from AutoLISP.
+AcDbMgd.dll. Use when working with objects stored in a drawing file.
+AcMgd.dll. Use when working with the application and user interface.
+AcCui.dll. Use when working with customization files.
+
+
+ref link : https://help.autodesk.com/view/OARX/2024/ENU/?guid=GUID-8657D153-0120-4881-A3C8-E00ED139E0D3

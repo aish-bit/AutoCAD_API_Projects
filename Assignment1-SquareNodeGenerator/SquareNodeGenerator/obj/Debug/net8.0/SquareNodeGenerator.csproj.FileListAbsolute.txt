@@ -1,0 +1,12 @@
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\bin\Debug\net8.0\SquareNodeGenerator.deps.json
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\bin\Debug\net8.0\SquareNodeGenerator.dll
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\bin\Debug\net8.0\SquareNodeGenerator.pdb
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.csproj.AssemblyReference.cache
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.AssemblyInfoInputs.cache
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.AssemblyInfo.cs
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.csproj.CoreCompileInputs.cache
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.dll
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\refint\SquareNodeGenerator.dll
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\SquareNodeGenerator.pdb
+D:\Learning\Interview\LTIMindTree\autocad_proj\Assignment1-SquareNodeGenerator\SquareNodeGenerator\obj\Debug\net8.0\ref\SquareNodeGenerator.dll
